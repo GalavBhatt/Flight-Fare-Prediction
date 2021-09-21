@@ -1,7 +1,9 @@
 # Flight-Fare-Prediction
 ### Web App
 ![flight_fare_final_result](https://user-images.githubusercontent.com/60823367/134225024-9551b34c-467d-42ec-9582-a18a4ad69ac9.png)
-#### Another Use Case
+
+### Another Use Case
+![another_use_case](https://user-images.githubusercontent.com/60823367/134226149-af6ed992-d8d4-4b5a-b867-8f256f5d00b6.png)
 
 ### Project Overview
 The main aim of the project is to build a web app which can predict the flight fare on the basis of certain features and Parameters.
